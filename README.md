@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun Gohe</h1>
 <h3 align="center">👨‍💻 Developer with a passion for Python and Flutter | Caffeinated coder ☕ | Turning ideas into code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3varun&label=Profile%20views&color=0e75b6&style=flat" alt="th3varun" /> </p>
+<p align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=th3varun&icon=0&color=6" alt="visit count"/>
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Spotify Clone App**
 
@@ -11,15 +15,15 @@
 
 - 🤝 I’m looking for help with **Backend Integration and UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/varun-gohe/](https://www.linkedin.com/in/varun-gohe/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/th3varun)
 
-- 📝 I regularly write articles on [https://medium.com/@07varun70](https://medium.com/@07varun70)
+- 📝 I regularly write articles on [Medium](https://medium.com/@07varun70)
 
 - 💬 Ask me about **Flutter, UI/UX Design**
 
 - 📫 How to reach me **thevarungohe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GNSZRDzs-8FtgtRbo9ShiuQqpMlB1T07/view?usp=sharing](https://drive.google.com/file/d/1GNSZRDzs-8FtgtRbo9ShiuQqpMlB1T07/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GNSZRDzs-8FtgtRbo9ShiuQqpMlB1T07/view?usp=sharing)
 
 - ⚡ Fun fact **Coffee: the unofficial fuel for late-night coding sessions!**
 
@@ -37,9 +41,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thevarun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thevarun" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3varun&show_icons=true&locale=en&layout=compact" alt="th3varun" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3varun&show_icons=true&locale=en" alt="th3varun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3varun&" alt="th3varun" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=th3varun&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="410"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3varun&theme=gotham&hide_border=false" alt="GitHub Streak" width="450"/>
+</p>
+<p align="left">
+ <img width="880" src="assets/github-snake.svg" alt="snake"/>
+</p>
