@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@07varun70)
 
-- 💬 Ask me about **Flutter, UI/UX Design**
+- 💬 Ask me about **Flutter, Design**
 
 - 📫 How to reach me **thevarungohe@gmail.com**
 
