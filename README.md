@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Spotify Clone App**
+- 🔭 I’m currently working on **Spotify Clone Apps**
 
 - 🌱 I’m currently learning **Bloc and RESTful APIs.**
 
