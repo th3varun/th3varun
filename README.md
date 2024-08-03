@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **thevarungohe@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GNSZRDzs-8FtgtRbo9ShiuQqpMlB1T07/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-E0hHbA42Rr4QzVUso3CzDZ3RoISlzim/view?usp=sharing)
 
 - ⚡ Fun fact **Coffee: the unofficial fuel for late-night coding sessions!**
 
